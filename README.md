@@ -105,5 +105,5 @@ The development of LittleLemon follows several guiding principles, including:
 This project was built by Ibrahim Imam as part of Meta's Backend Developer Capstone Project.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the - [LICENSE](#LICENSE) file for details.
 
