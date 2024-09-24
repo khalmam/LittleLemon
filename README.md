@@ -35,8 +35,10 @@ Ensure you have the following installed on your system:
    cd littlelemon-backend
 
 2. **Set up a virtual environment**:
+```bash
 python -m venv env
 source env/bin/activate  # For Windows use `env\Scripts\activate`
+```
 
 3. **Install dependencies**:
 
@@ -97,4 +99,4 @@ This project was built by Ibrahim Imam as part of Meta's Backend Developer Capst
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
+
