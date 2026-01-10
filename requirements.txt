@@ -5,3 +5,5 @@ djangorestframework-simplejwt
 gunicorn
 whitenoise
 dotenv
+mysqlclient
+PyMySQL
