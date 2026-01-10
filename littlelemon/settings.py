@@ -32,7 +32,7 @@ SECRET_KEY = '%yb1z9rpftgko)&b!0_%bq4jbxys@l44!u7lpm#wh@)h0d#*vp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['littlelemon-sg9q.onrender.com']
 
 
 # Application definition
