@@ -40,3 +40,9 @@ def reservations(request:HttpRequest) -> HttpResponse:
     bookings = Booking.objects.all()
     booking_json = serializers.serialize('json', bookings)
     return render(request, 'reservations.html',{"bookings":booking_json})
+
+def book(request):
+    return render(request, 'book.html') # Ensure book.html exists in your templates
+
+def bookings(request):
+    return render(request, 'bookings.html')

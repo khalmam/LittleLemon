@@ -15,4 +15,7 @@ urlpatterns = [
     # API paths
     path('menu/<int:pk>', views.SingleMenuItemView.as_view(), name='menu-item'),
     path('booking/', include(router.urls)),
+    path('book/', views.book, name='book'),
+    path('bookings/', views.bookings, name='bookings'),
 ]
+
