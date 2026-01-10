@@ -4,3 +4,4 @@ djoser
 djangorestframework-simplejwt
 gunicorn
 whitenoise
+dotenv
